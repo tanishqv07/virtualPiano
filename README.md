@@ -6,3 +6,5 @@ Features:
   Sound: Incorporates realistic piano sounds using audio samples.
 
 feel free to commit and improve it 
+
+hosted here : https://cool-salmiakki-710001.netlify.app/
